@@ -2,12 +2,15 @@
 
 This is a "Giving Back" repository where NeSy models are implemented from scratch in notebook style as a tutorial.
 
+## Logic Tensor Network
+[LTN](https://arxiv.org/abs/1606.04422)
+
+## DreamCoder
+
+---
+
 # Related Work
 
 | Year | Paper |
 |------|-------|
-| 2019 | [Neural Logic Machines](https://arxiv.org/abs/1904.11694): Proposes a framework that unifies neural networks with inductive logic programming. Uses tensor-based logic modules enabling generalization to unseen object combinations. |
-| 2020 | [Neural-Symbolic Concept Learner](https://arxiv.org/abs/1904.12584): Introduces an architecture that learns concepts and rules from visual scenes. It integrates symbolic reasoning with neural perception for generalizable visual QA tasks. |
-| 2021 | [Logic Tensor Networks](https://arxiv.org/abs/1606.04422): Formalizes the combination of first-order logic and continuous learning via tensors, supporting soft logic and partial truth values in neural architectures. |
-| 2022 | [DreamCoder](https://arxiv.org/abs/2006.08381): A framework for learning domain-specific languages and using them to synthesize interpretable programs. Combines symbolic search and neural program induction. |
-
+| 2020 | [NeuroSymbolic AI: The 3rd Wave](https://arxiv.org/abs/2012.05876)<br>• Outlines a roadmap for integrating neural and symbolic systems.<br>• Emphasizes the strengths of symbolic reasoning for generalization and abstraction. <br>• Advocates for compositionality and interpretability in AI systems. |
