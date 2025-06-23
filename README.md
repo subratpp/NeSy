@@ -8,6 +8,7 @@ This is a "Giving Back" repository where NeSy models are implemented from scratc
 
 ## [Logic Tensor Network](https://arxiv.org/abs/1606.04422), Elsevier AI, 2022
 
+## [Learning Modulo Theories](https://arxiv.org/abs/2301.11435), 2023
 
 ## [Differentiable Tree Machine](https://proceedings.mlr.press/v202/soulos23a/soulos23a.pdf), ICML, 2023
 
