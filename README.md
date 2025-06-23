@@ -2,10 +2,14 @@
 
 This is a "Giving Back" repository where NeSy models are implemented from scratch in notebook style as a tutorial.
 
-## Logic Tensor Network
-[LTN](https://arxiv.org/abs/1606.04422)
 
-## DreamCoder
+
+## [DreamCoder](https://dl.acm.org/doi/10.1145/3453483.3454080), ACM-SIGPLAN, 2021
+
+## [Logic Tensor Network](https://arxiv.org/abs/1606.04422), Elsevier AI, 2022
+
+
+## [Differentiable Tree Machine](https://proceedings.mlr.press/v202/soulos23a/soulos23a.pdf), ICML, 2023
 
 ---
 
