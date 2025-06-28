@@ -12,6 +12,9 @@ This is a "Giving Back" repository where NeSy models are implemented from scratc
 
 ### [Differentiable Tree Machine](https://proceedings.mlr.press/v202/soulos23a/soulos23a.pdf), ICML, 2023
 
+### [Data-Efficient Learning with Neural Programs](https://proceedings.neurips.cc/paper_files/paper/2024/hash/1a958c6e813989a0d4b677e6a6f3339a-Abstract-Conference.html), NeurIPS, 2024
+
+
 ---
 
 # Related Work
