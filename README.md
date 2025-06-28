@@ -25,6 +25,8 @@ The following benchmarks are typically used in the literature but are not consid
 
 ### [Data-Efficient Learning with Neural Programs](https://proceedings.neurips.cc/paper_files/paper/2024/hash/1a958c6e813989a0d4b677e6a6f3339a-Abstract-Conference.html), NeurIPS, 2024
 
+### [CTSketch](https://arxiv.org/pdf/2503.24123?)
+
 
 ---
 
