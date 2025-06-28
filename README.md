@@ -2,7 +2,18 @@
 
 This is a "Giving Back" repository where NeSy models are implemented from scratch in notebook style as a tutorial.
 
+**Toy Problem:** MNIST Addition (two or multi-digit)
 
+### Benchmarks
+The following benchmarks are typically used in the literature but are not considered for evaluation in this repository, as our focus is on learning architectures.
+1. Sudoko Solving
+2. Visual Sudoko
+3. Hand-Written Formula
+4. Leaf and Scene Identification
+
+---
+
+## Architectures
 
 ### [DreamCoder](https://dl.acm.org/doi/10.1145/3453483.3454080), ACM-SIGPLAN, 2021
 
@@ -17,7 +28,7 @@ This is a "Giving Back" repository where NeSy models are implemented from scratc
 
 ---
 
-# Related Work
+## Related Work
 
 ### [NeuroSymbolic AI: The 3rd Wave](https://arxiv.org/abs/2012.05876), 2020
 - **NeuroSymbolic AI (NSAI)** aims to combine symbolic reasoning with deep learning to improve trust, interpretability, and robustness, moving beyond the limitations of purely sub-symbolic models.
